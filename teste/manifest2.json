@@ -1,13 +1,13 @@
 {
-  "name": "UPBox Firmware 10",
+  "name": "UPBox Firmware 11",
   "builds": [
     {
       "chipFamily": "ESP32",
       "parts": [
         { "path": "bootloader.bin", "offset": 4096 },
-        { "path": "partition-table.bin", "offset": 32768 },
-        { "path": "ota_data_initial.bin", "offset": 57344 },
-        { "path": "up_main138.bin", "offset": 65536 }
+        { "path": "partitions.bin", "offset": 32768 },
+        { "path": "boot_app0.bin", "offset": 57344 },
+        { "path": "uppay.bin", "offset": 65536 }
       ]
     }
   ]
