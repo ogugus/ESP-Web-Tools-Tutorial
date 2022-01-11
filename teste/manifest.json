@@ -9,7 +9,7 @@
         { "path": "bootloader.bin", "offset": 4096 },
         { "path": "partition-table.bin", "offset": 32768 },
         { "path": "ota_data_initial.bin", "offset": 57344 },
-        { "path": "up_main138.bin", "offset": 65536 }
+        { "path": "up_main141.bin", "offset": 65536 }
       ]
     }
   ]
