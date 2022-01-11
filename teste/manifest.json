@@ -1,6 +1,6 @@
 
 {
-  "name": "ESPHome",
+  "name": "UPBox Firmware 10",
   "builds": [
     {
       "chipFamily": "ESP32",
